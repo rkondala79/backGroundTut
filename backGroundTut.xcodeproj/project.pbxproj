@@ -22,14 +22,14 @@
 		2CAD8B2E1684BBD10087CDF6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2CAD8B301684BBD10087CDF6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		2CAD8B321684BBD10087CDF6 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		2CAD8B361684BBD10087CDF6 /* backGroundTut-Info.plist */ = {isa = PBXFileReference; path = "backGroundTut-Info.plist"; sourceTree = "<group>"; };
+		2CAD8B361684BBD10087CDF6 /* backGroundTut-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "backGroundTut-Info.plist"; sourceTree = "<group>"; };
 		2CAD8B381684BBD10087CDF6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		2CAD8B3A1684BBD10087CDF6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2CAD8B3C1684BBD10087CDF6 /* backGroundTut-Prefix.pch */ = {isa = PBXFileReference; path = "backGroundTut-Prefix.pch"; sourceTree = "<group>"; };
-		2CAD8B3D1684BBD10087CDF6 /* xyzAppDelegate.h */ = {isa = PBXFileReference; path = xyzAppDelegate.h; sourceTree = "<group>"; };
+		2CAD8B3C1684BBD10087CDF6 /* backGroundTut-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "backGroundTut-Prefix.pch"; sourceTree = "<group>"; };
+		2CAD8B3D1684BBD10087CDF6 /* xyzAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = xyzAppDelegate.h; sourceTree = "<group>"; };
 		2CAD8B3E1684BBD10087CDF6 /* xyzAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xyzAppDelegate.m; sourceTree = "<group>"; };
 		2CAD8B411684BBD10087CDF6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		2CAD8B431684BBD10087CDF6 /* xyzViewController.h */ = {isa = PBXFileReference; path = xyzViewController.h; sourceTree = "<group>"; };
+		2CAD8B431684BBD10087CDF6 /* xyzViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = xyzViewController.h; sourceTree = "<group>"; };
 		2CAD8B441684BBD10087CDF6 /* xyzViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xyzViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
